@@ -1,4 +1,6 @@
-ls means list
+git clone: is used to clone the file for the first time.
+ls : list
 git pull: pull the file to your local machine.
 cat filename : shows the content of the file
+to save click commit changes
 
