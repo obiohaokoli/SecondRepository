@@ -1,1 +1,4 @@
-Hello, github i will be an expert on this.
+ls means list
+git pull: pull the file to your local machine.
+cat filename : shows the content of the file
+
