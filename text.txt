@@ -8,3 +8,7 @@ cat filename : shows the content of the file
 To get the folder in the gitbatch after cloning the type cd folder name
 to save click commit changes
 
+
+Pushing file from local computer to the github repository
+First add the file to the stagging area by using the command git add.
+To verify just type git status before adding the file , it will tell about untrack file
