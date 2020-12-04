@@ -1,6 +1,10 @@
-git clone: is used to clone the file for the first time.
+To get the https url click the clone. if you want ssh then select it.
+before pasting the url first type the command git clone then paste the url then enter
+To get files from github to our local system we need to install git for window and download it. Select you window configuration.
+git clone: is used to clone the folder in the repository when you want to connect to your local machine for the first time .
 ls : list
 git pull: pull the file to your local machine.
 cat filename : shows the content of the file
+To get the folder in the gitbatch after cloning the type cd folder name
 to save click commit changes
 
